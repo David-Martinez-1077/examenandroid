@@ -1,7 +1,7 @@
 # Examen_Botones_con_rutas
 
 # pagina inicial 
-![image](https://github.com/user-attachments/assets/53dd5457-d05b-4bcb-8c2f-53f7a4197576)
+![image](https://github.com/user-attachments/assets/f5049647-b17a-434c-a42e-5f41d5f0f91b)
 
 #ejercicio 1
 ![image](https://github.com/user-attachments/assets/1ac58d53-8034-404b-bafa-96e1194789ab), ![image](https://github.com/user-attachments/assets/652e9f32-0500-4ce4-8a66-9ce209f1c0f8) ![image](https://github.com/user-attachments/assets/5cb9b822-d4d2-4583-bb0f-8addad24fd5e)
@@ -23,3 +23,7 @@
 
 # ejercicio 7
 ![image](https://github.com/user-attachments/assets/dcd92e4d-ca34-43de-b3ae-aa56da098a51)
+
+# ejercicio 8
+![image](https://github.com/user-attachments/assets/370c81c6-7920-4386-a1e5-32165f48516a)
+
